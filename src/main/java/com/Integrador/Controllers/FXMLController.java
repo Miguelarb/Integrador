@@ -12,6 +12,7 @@ import javafx.scene.layout.AnchorPane;
 import javafx.util.Duration;
 
 //Clase Controller del splash
+// Hola
 public class FXMLController implements Initializable {
     //Alv
     @FXML
